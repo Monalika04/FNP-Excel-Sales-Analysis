@@ -15,8 +15,8 @@ The dashboard provides business insights into revenue trends, customer behavior,
 
 ---
 
-## Dashboard Preview
-![Dashboard](dashboard/fnp sales.png)
+### Main Dashboard
+![Dashboard](dashboard/fnp%20sales.png)
 
 ---
 
